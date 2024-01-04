@@ -1,11 +1,11 @@
-For Installation 
+For Installation =>
 npm install
 npm run dev
 
-Authentication
+Authentication =>
 Firebase is utilized for project authentication.
 
-Usage
+Usage =>
 Here are usage instructions for better interaction with the project:
 
 Access the login screen via the root route: "/"
